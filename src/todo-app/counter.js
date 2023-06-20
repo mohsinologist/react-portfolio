@@ -5,7 +5,7 @@ function CounterApp() {
 
   return(
     <div className='counter-app-wrapper'>
-
+      <input type="text" />
     </div>
   )
 }
