@@ -1,0 +1,10 @@
+.todo-app-wrapper{
+  width: 600px;
+  margin: 0 auto;
+  max-width: 100%;;
+}
+.delete-item-btn{
+  background-color: red;
+  display: inline-block;
+  line-height: 1;
+}
